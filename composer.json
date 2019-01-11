@@ -1,0 +1,15 @@
+{
+    "name": "urameshibr/pg-interval-support",
+    "description": "Support for interval field type in PostgreSQL databases.",
+    "keywords": ["interval", "postgres", "pgsql"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Urameshibr\\": "src/"
+        }
+    }
+}
